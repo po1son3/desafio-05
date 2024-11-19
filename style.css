@@ -1,0 +1,67 @@
+* {
+  font-family:Verdana, Arial, sans-serif;
+  background-color: rgb(237, 236, 233);
+}
+img {
+  width: 100%;
+}
+h1 {
+  color: rgb(120, 86, 72);
+  font-size: 36px;
+}
+h2 {
+  background-color: rgb(120, 86, 72);
+  color: rgb(232, 211, 202);
+  font-size: 20px;
+}
+li {
+  color: rgb(113, 77, 63);
+}
+p {
+  color: rgb(113, 77, 63);
+}
+footer {
+  height: 100px;
+  background-color: black;
+  color: yellow;
+  text-align: center;
+}
+/* clases */
+.subrayado {
+  text-decoration: underline;
+}
+.naranja {
+  color: rgb(238, 141, 66);
+}
+.celeste {
+  color: rgb(60, 167, 195);
+}
+.rojo {
+  color: rgb(239, 68, 73);
+}
+.amarillo {
+  color: rgb(219, 179, 58);
+}
+.marron {
+color: rgb(117, 74, 74);
+font-weight: bold;
+}
+.marroncito {
+  color: rgb(113, 77, 63);
+}
+.negro {
+color:  rgb(113, 77, 63);
+}
+.grande {
+  font-size: 30px;
+  font-weight: bold;
+}
+.guion-finito {
+  font-size: 18px;
+  font-weight: lighter;
+  color: black;
+}
+.inline {
+  display: inline;
+}
+/* fin clases */
